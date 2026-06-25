@@ -108,8 +108,8 @@ Output yang dihasilkan meliputi:
 
 ## Author
 
-* Ghefira Salsabila
-* Rachel
+* Ghefira Salsabila-202310370311372
+* Rachel Amanda Fausta-202310370311386
 
 ## Mata Kuliah
 
